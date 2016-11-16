@@ -1,0 +1,772 @@
+/* Large desktop :992px. */
+@media (min-width: 1170px) and (max-width: 1300px) {
+	/* header area styling */
+	.header-area .menu-right ul li {width: 31px;}
+	.header-area .menu-right ul li::after {height: 26px;top: 35px;}
+
+   /* slider area styling */
+	.slider-area .slider-2 h1 {font-size: 48px;letter-spacing: 7px;}
+	.slider-area .slider-2 div.title2 { padding: 0 10%;}
+
+	/* home page Styling */
+	.why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li {padding: 0 24px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li::after {right: -79px;}
+	.video-section p {padding: 0 200px;}
+	.home-blog-area .single-blog h3 a {font-size: 22px;}
+
+	/* others pages styling */
+	.single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 30px;}
+    .contact-page-area .total-contact-form .contact-information { padding: 60px;}
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 80px;}
+    .client-testimonial-area .single-testimonial {height: 560px;}
+    .home-about-area{padding:80px 0;}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+	/* header area styling */
+	.header-area .menu-right ul li {width: 31px;}
+	.header-area .menu-right ul li::after {height: 26px;top: 35px;}
+    .header-area .main-menu ul li {padding: 35px 22px;}
+   /* slider area styling */
+	.slider-area .slider-2 h1 {font-size: 48px;letter-spacing: 7px;}
+	.slider-area .slider-2 div.title2 { padding: 0 10%;}
+
+	/* home page Styling */
+	.why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li {padding: 0 24px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li::after {right: -79px;}
+	.video-section p {padding: 0 100px;}
+	.home-blog-area .single-blog h3 a {font-size: 22px;}
+
+	/* others pages styling */
+	.single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 30px;}
+    .contact-page-area .total-contact-form .contact-information { padding: 60px;}
+    .home-advertise-area .advertise-content p {font-size: 15px;}
+    .client-testimonial-area .single-testimonial .testimonial-content h2 {font-size: 30px;margin-right: 10%;}
+    .footer-top .widget .social-media ul li { margin: 1px;}
+    .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev, .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev {top: 50%;}
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 80px;}
+    .client-testimonial-area .single-testimonial {height: 560px;}
+    .home-about-area{padding:80px 0;} 
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.container {width:750px;}
+	/* header area styling */
+	.header-area .menu-right ul li {width: 31px;}
+	.header-area .menu-right ul li::after {height: 26px;top: 35px;}
+    .header-area .main-menu ul li {padding:22px;}
+    .menu-right {display: none;}
+    .header-area {position: inherit;background:#000000;}
+    .header-area .logo-area a {padding: 5px;}
+
+
+   /* slider area styling */
+	.slider-area .slider-2 h1 {font-size: 36px;letter-spacing: 5px;}
+	.slider-area .slider-2 div.title2 { padding: 0 5%;}
+
+	/* home page Styling */
+	.why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li {padding: 0 24px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li::after {right: -79px;}
+	.video-section p {padding: 0 100px;}
+	.home-blog-area .single-blog h3 a {font-size: 22px;}
+	.home-page-services-area .single-service {margin-bottom: 30px;}
+	.home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li {margin: 10px 8px;}
+
+	/* others pages styling */
+	.single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 30px;}
+    .contact-page-area .total-contact-form .contact-information { padding: 60px;}
+    .home-advertise-area .advertise-content p {font-size: 15px;}
+    .client-testimonial-area .single-testimonial .testimonial-content h2 {font-size: 30px;margin-right: 10%;}
+    .footer-top .widget .social-media ul li { margin: 1px;}
+    .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev, .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev {top: 50%;}
+    .home-feature-services-area .single-services{border:0px solid #ffffff !important;}
+    .why-smartiot-today .smartiot-today-content, .awesome-process-content {  margin: 30px 0;    }
+    .smartiot-today-featured, .about-page-srill-area, .about-page-srill-area .about-page-service .single-services p, .single-team-page, .single-team-page .single-team-content-area .team-information ul, .why-smartiot-today, .awesome-process-area, .home-blog-area .single-blog{text-align:center;}
+    .about-page-srill-area .about-page-service .single-services h3 a::after {left: 0;margin: auto;right: 0;}
+    .footer-top .widget.single-footer2 ul li { margin: 22px 0; }
+    .widget, .single-team-page .team-feature .single-team-feature{margin-bottom: 30px;}
+    .about-counter-list i {font-size: 32px;}
+    .about-counter-list h1 {font-size: 40px;    }
+    .client-logo-area .owl-prev {left: -30px;    }
+    .client-logo-area .owl-next {right: -30px;    }
+    .padding-768, .page-sidebar-area{padding-top:30px;}
+    .single-team-page .single-team-featured-image .team-image {margin-bottom: 30px;}
+    .single-team-page .team-feature .single-team-feature::after{display:none;}
+    .error-page-area .error-page p {padding: 0 20px;}
+	/*==== Start gallery masonary v1 area css ====*/
+	.home-portfolio-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 50%;}
+
+	/* responsive spacing issues */
+	.home-portfolio-area {padding: 130px 0 0;}
+	.project-activation-area, .page-header-area{padding:90px 0;}
+    .home-page-services-area,
+    .home-about-area,
+    .home-advertise-area,
+    .home-feature-services-area,
+    .home-team-area,
+    .why-smartiot-today,
+    .awesome-process-area, 
+    .video-section,
+    .home-blog-area,
+    .services-page,
+    .single-team-page,
+    .related-team-member,
+    .single-portfolio-area,
+    .blog-page,
+    .our-work-three.portfolio-page,
+    .client-logo-area,
+    .footer-top,
+    .project-activation-area, .page-header-area,
+    .contact-page-area{padding:60px 0;}
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 80px;}
+    .client-testimonial-area .single-testimonial {height: 560px;}
+    .home-about-area{padding:80px 0;} 
+    .home-feature-services-area .single-services{margin: 0 0 60px !important;padding: 0;}
+    .about-page-srill-area{padding:60px 0 0;}
+
+
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px;}
+	.mobile-menu-area{display: block;}
+	.header-area{display: none;}
+	/* header area styling */
+	.header-area .menu-right ul li {width: 31px;}
+	.header-area .menu-right ul li::after {height: 26px;top: 35px;}
+    .header-area .main-menu ul li {padding:22px;}
+    .menu-right {display: none;}
+    .header-area {position: inherit;background:#000000;}
+    .header-area .logo-area a {padding: 5px;}
+    .slider-area .slider-2 div.slider-botton ul li a {padding: 10px 30px;}
+    .slider-area .slider-2 div.slider-botton ul li.acitve a {padding: 10px 30px;}
+
+   /* slider area styling */
+   .slider-area .slider-2 h1 {font-size: 24px;font-weight: 400;letter-spacing: 0;}
+	.slider-area .slider-2 div.title2 { padding: 0 0%;font-size:14px;}
+    .slider-area .slider-2 div.slider-botton {margin-top: 30px;}
+
+	/* home page Styling */
+	.why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li {padding: 0 20px;}
+	.awesome-process-area .awesome-process-menu ul.nav-tabs li::after {right: -79px;}
+	.video-section p {padding: 0 100px;}
+	.home-blog-area .single-blog h3 a {font-size: 22px;}
+	.home-page-services-area .single-service {margin-bottom: 30px;}
+    .home-about-area .about-content h3 {font-size: 30px;font-weight: 400;margin-bottom:10px;}
+    .padding-481{margin-bottom:0px !important;}
+	.home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li {margin: 10px 0px;}
+	.home-testimonial-area .home-testimonial .tab-content .tab-pane .client-details p {margin: 20px 0;padding: 45px 0;}
+	.home-testimonial-area .home-testimonial .client-nav {bottom: -90px;}
+	.video-section p {padding: 0 37px;}
+	.home-about-area .about-content .about-content-list .single-list .media .pull-left a, .single-list {margin: 20px auto;
+	  text-align: center;}
+	  .home-about-area .about-content .about-content-list .single-list .media .pull-left, .single-team-page .team-feature .single-team-feature .media .pull-left, .single-blog .author-comment .single-author-comment .media .pull-left,.single-blog .about-author-post .single-author-post .media .pull-left {display: block;float: inherit !important;text-align: center;margin-right:0;}
+      .about-counter-list {margin: 73px;}
+     .about-counter-list i {left: 0;right: 0;top: -25px;}
+    .single-team-page .team-feature .single-team-feature .media .pull-left i {margin: auto;}
+.our-work-three .work-column-menu ul li {margin-bottom: 10px;margin-right:0;display:block;}
+	/* others pages styling */
+	.single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 20px;margin-bottom:10px;}
+    .contact-page-area .total-contact-form .contact-information { padding: 60px;}
+    .home-advertise-area .advertise-content p {font-size: 15px;}
+    .client-testimonial-area .single-testimonial .testimonial-content h2 {font-size: 30px;font-weight: 500;height: 15px;margin-right: 0;}
+    .footer-top .widget .social-media ul li { margin: 1px;}
+    .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev, .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev {top: 50%;}
+    .home-feature-services-area .single-services{border:0px solid #ffffff !important;padding:0 0 30px;}
+    .why-smartiot-today .smartiot-today-content, .awesome-process-content {  margin: 30px 0;    }
+    .smartiot-today-featured, .about-page-srill-area, .about-page-srill-area .about-page-service .single-services p, .single-team-page, .single-team-page .single-team-content-area .team-information ul, .why-smartiot-today, .awesome-process-area, .home-blog-area .single-blog, .about-content{text-align:center;}
+    .about-page-srill-area .about-page-service .single-services h3 a::after,
+    .contact-page-area .total-contact-form .contact-form h3::after {left: 0;margin: auto;right: 0;}
+    .footer-top .widget.single-footer2 ul li { margin: 22px 0; }
+    .widget, .single-team-page .team-feature .single-team-feature{margin-bottom: 30px;}
+    .about-counter-list i {font-size: 32px;}
+    .about-counter-list h1 {font-size: 40px;    }
+    .client-logo-area .owl-prev {left: -30px;    }
+    .client-logo-area .owl-next {right: -30px;    }
+    .padding-768, .page-sidebar-area{padding-top:30px;}
+    .padding-480{padding-top:30px;}
+    .single-team-page .single-team-featured-image .team-image {margin-bottom: 30px;}
+    .single-team-page .team-feature .single-team-feature::after{display:none;}
+    .error-page-area .error-page p {font-size: 14px;padding: 0;}
+    .single-portfolio-area .portfolio-content .porfolio-informations ul li {display: block;border:0px solid #000000;margin-bottom: 10px;}
+    .single-blog .author-comment .single-author-comment .media .media-body ul {margin: 30px 0;}
+	.single-blog .author-comment .single-author-comment .media .media-body h4.media-heading {text-align:center;margin: 20px 0 0;}
+	.single-blog .author-comment .single-author-comment, .single-blog .about-author-post .single-author-post, .about-author-comment {text-align: center;}
+	.single-blog .about-author-post .single-author-post .media .media-body h4.media-heading {margin: 10px 0 0;}
+	.error-page-area .error-page h1 {font-size: 144px;line-height: 60px;margin-bottom: 80px;}
+	.error-page-area .error-page h3 {font-size: 20px;letter-spacing: 0;}
+	.error-page-area .error-page a {padding: 15px 30px;	}
+	.error-page-area .error-page {padding: 50px;}
+
+	/*==== Start gallery masonary v1 area css ====*/
+	.home-portfolio-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 100%;}
+	.home-portfolio-area .gallery-masonary-v1-area {padding-top: 0;}
+
+	/* responsive spacing issues */
+	.home-portfolio-area {padding: 130px 0 0;}
+	.project-activation-area, .page-header-area{padding:50px 0;}
+    .home-page-services-area,
+    .home-about-area,
+    .home-advertise-area,
+    .home-feature-services-area,
+    .home-team-area,
+    .why-smartiot-today,
+    .awesome-process-area, 
+    .video-section,
+    .home-blog-area,
+    .services-page,
+    .single-team-page,
+    .related-team-member,
+    .single-portfolio-area,
+    .blog-page,
+    .about-page-srill-area,
+    .home-portfolio-area.portfolio-page,
+    .client-testimonial-area .single-testimonial,
+    .our-work-three.portfolio-page,
+    .footer-top,
+    .error-page-area,
+    .contact-page-area,
+    .project-activation-area, .page-header-area,
+    .contact-page-area,
+    .client-logo-area,
+    .home-testimonial-area{padding:50px 0 !important;}
+    .client-testimonial-area .single-testimonial .testimonial-content,
+    .portfolio-content,
+    .single-portfolio-area .portfolio-content .porfolio-informations ul,
+    .blog-content,
+    .blog-page .blog-content .single-blog .blog-info ul,
+    .blog-more-informations,
+    .single-blog .blog-more-informations ul,
+    .header-page{margin-right: 0;text-align: center;}
+	.contact-page-area .total-contact-form .contact-form .main-contact-form fieldset .btn-send{width:100%;}
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 0px;}
+    .client-testimonial-area .single-testimonial {height: 420px;}
+    .home-about-area{padding:80px 0;} 
+    .home-feature-services-area .single-services{margin: 0 0 30px !important;padding: 0;}
+    .about-page-srill-area{padding:60px 0 0;}
+    .home-testimonial-area .home-testimonial h2 {font-size: 21px;}
+    .home-testimonial-area .home-testimonial p {font-size: 16px;margin-bottom:25px;}
+    .our-work-three{padding:100px 0 0;}
+    .last-child{margin:0 !important;padding:0 !important;}
+	.video-section p {padding: 0 15px;}
+	.about-page-srill-area .about-skrill-area .skill .progress {margin: 80px 0 0;}
+	.services-page .single-service {padding: 15px;text-align: center;}
+	.pagination-area {padding-top: 30px;}
+	.pagination-area ul {text-align: center;}
+	.margin-481{margin-bottom: 20px;}
+	.blog-page .blog-content .single-blog h3 a {font-size: 20px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li a img {height: 60px;width: 60px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li.active a img {height: 70px;width: 70px;}
+    .home-blog-area .single-blog,
+    .about-page-service {margin-bottom: 50px;}
+    .about-page-srill-area .about-skrill-area .skill-content-3,
+    .home-team-area .single-team,
+    .single-blog .leave-comments-area{margin-bottom: 30px;}
+    .single-blog .leave-comments-area {text-align:center;}
+    .single-blog .leave-comments-area fieldset .form-group .btn-send{width:100%;}
+    .contact-page-area .total-contact-form .contact-form {padding: 40px 0;text-align: center;}
+    /* v2 responsive issues Fixed */
+    .home-about-area .about-content .about-content-list {margin-top: 10px;}
+    .home-page-services-area .single-service,
+    .single-portfolio-area .portfolio-content .image-slider {margin-bottom: 30px;}
+    .home-about-area .about-content h3 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .section-area h2 {font-size: 30px;font-weight: 500;margin-bottom: 10px;}
+    .section-area p {font-size: 16px;margin-bottom: 0;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title h3 a {font-size: 20px;font-weight: 400;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title ul li a{color:#ffffff;}
+    .client-testimonial-area .single-testimonial .testimonial-content p b {font-size: 14px;margin-bottom: 0 !important;}
+    .why-smartiot-today .smartiot-today-content h2 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .why-smartiot-today .smartiot-today-content p {margin-bottom: 0;}
+    .smartiot-today-content > ul {text-align: center;}
+    .awesome-process-area .awesome-process-content h2 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .awesome-process-area .awesome-process-menu .tab-content .tab-pane h3 {font-weight: 400;margin-bottom: 10px;}
+    .video-title,
+    .home-blog-area .single-blog h3 a,
+    .footer-top .widget .widget-title,
+    .services-page .single-service h3 a,
+    .home-team-area .single-team .team-details h3 a,
+    .single-team-page .single-team-content-area h3,
+    .single-team-page .team-feature .single-team-feature .media .media-body h4.media-heading,
+    .section-area h2,
+    .related-team-member .related-team .single-team .team-details h3 a,
+    .single-portfolio-area .portfolio-content h2,
+    .blog-page .blog-content .single-blog h3,
+    .blog-page .blog-content .single-blog p,
+    .blog-page .blog-content .single-blog h3 a,
+    .contact-page-area .total-contact-form .contact-form h3 {font-weight: 400;}
+    .about-page-srill-area .about-title-section h3,
+    .page-header-area h1 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .padding-top1,
+    .single-portfolio-area .portfolio-content .porfolio-informations { padding-top: 30px;}
+    .contact-page-area .total-contact-form .contact-information {   padding: 30px 60px;    }
+
+
+
+
+
+}
+ 
+/* mobile device :320px. */
+@media only screen and (min-width: 321px) and (max-width:479px) {
+    .container {width:300px;}
+    .mobile-menu-area{display: block;}
+    .header-area{display: none;}
+    /* header area styling */
+    .header-area .menu-right ul li {width: 31px;}
+    .header-area .menu-right ul li::after {height: 26px;top: 35px;}
+    .header-area .main-menu ul li {padding:22px;}
+    .menu-right {display: none;}
+    .header-area {position: inherit;background:#000000;}
+    .header-area .logo-area a {padding: 5px;}
+
+    /* slider area styling */
+    .slider-content{display:none;}
+    .nivo-directionNav a {top: 25%;}
+    /* home page Styling */
+    .why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li {	  
+    display: block;
+    float: inherit;
+    margin: auto;
+    padding: 0 !important;
+    position: relative;
+    text-align: center;}
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li a {
+    margin: auto auto 20px;
+    padding: 0;
+    transition: all 0.35s ease-out 0s;
+    width: 60px;
+    }
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li::after {display:none;}
+    .video-section p {padding: 0 100px;}
+    .home-blog-area .single-blog h3 a {font-size: 20px;}
+    .home-page-services-area .single-service {margin-bottom: 60px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li {margin:0px;}
+    .home-testimonial-area .home-testimonial .tab-content .tab-pane .client-details p {font-size: 14px;margin: 30px 0;
+    padding: 20px 0;}
+    .home-about-area .about-content h3, .why-smartiot-today .smartiot-today-content h2 {font-size: 25px;}
+    .home-testimonial-area .home-testimonial h2 {font-size: 25px;}
+    .home-testimonial-area .home-testimonial .client-nav {bottom: -90px;}
+    .home-testimonial-area {padding: 60px 0;}
+    .section-area h2, .awesome-process-area .awesome-process-content h2, .about-page-srill-area .about-title-section h3{font-size: 29px;}
+    .about-page-srill-area .about-title-section .subtitle p {letter-spacing: 4px;}
+    .home-team-area .single-team .team-image .overley .team-info ul li {margin: 0 2px;}
+    .home-portfolio-area .gallery-filter li{display:block;}
+    .video-section p {padding: 0 15px;}
+    .home-about-area .about-content .about-content-list .single-list .media .pull-left a, .single-list {margin: 20px auto;
+    text-align: center;}
+    .home-about-area .about-content .about-content-list .single-list .media .pull-left, .single-team-page .team-feature .single-team-feature .media .pull-left, .single-blog .author-comment .single-author-comment .media .pull-left,.single-blog .about-author-post .single-author-post .media .pull-left {display: block;float: inherit !important;text-align: center;margin-right:0;}
+    .about-counter-list {margin: 73px;}
+    .about-counter-list i {left: 0;right: 0;top: -25px;}
+    .single-team-page .team-feature .single-team-feature .media .pull-left i {margin: auto;}
+    .awesome-process-area .awesome-process-content p {margin-right: 0;}    
+    .client-testimonial-area .single-testimonial .testimonial-content {margin-right: 0;text-align: center;}
+
+
+
+
+    /* others pages styling */
+    .single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 19px;margin-bottom:10px;}
+    .blog-page .blog-content .single-blog h3 {font-size: 20px;}
+    .single-blog .quoate {padding: 10px;}
+    .blog-more-informations {margin-bottom: 20px;}
+    .contact-page-area .total-contact-form .contact-information {padding: 25px;}
+    .home-advertise-area .advertise-content p {font-size: 15px;}
+    .client-testimonial-area .single-testimonial .testimonial-content h2 {font-size: 24px;line-height: 1.5;margin-right: 0;
+    }
+    .footer-top .widget .social-media ul li { margin: 1px;}
+    .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev, .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev {top: 50%;}
+    .home-feature-services-area .single-services{border:0px solid #ffffff !important;padding:0 0 30px;}
+    .why-smartiot-today .smartiot-today-content, .awesome-process-content {  margin: 0 0 30px 0;    }
+    .smartiot-today-featured, .about-page-srill-area, .about-page-srill-area .about-page-service .single-services p, .single-team-page, .single-team-page .single-team-content-area .team-information ul, .why-smartiot-today, .awesome-process-area, .home-blog-area .single-blog, .about-content{text-align:center;}
+    .about-page-srill-area .about-page-service .single-services h3 a::after,
+    .contact-page-area .total-contact-form .contact-form h3::after {left: 0;margin: auto;right: 0;}
+    .footer-top .widget.single-footer2 ul li { margin: 22px 0; }
+    .widget, .single-team-page .team-feature .single-team-feature{margin-bottom: 30px;}
+    .about-counter-list i {font-size: 32px;}
+    .about-counter-list h1 {font-size: 40px;    }
+    .client-logo-area .owl-prev {left: -30px;    }
+    .client-logo-area .owl-next {right: -30px;    }
+    .padding-768, .page-sidebar-area{padding-top:30px;}
+    .padding-480{padding-top:30px;}
+    .single-team-page .single-team-featured-image .team-image {margin-bottom: 30px;}
+    .single-team-page .team-feature .single-team-feature::after{display:none;}
+    .error-page-area .error-page p {font-size: 14px;padding: 0;}
+    .single-portfolio-area .portfolio-content .porfolio-informations ul li {display: block;border:0px solid #000000;margin-bottom: 10px;}
+    .single-blog .author-comment .single-author-comment .media .media-body ul {margin: 30px 0;}
+    .single-blog .author-comment .single-author-comment .media .media-body h4.media-heading {text-align:center;margin: 20px 0 0;}
+    .single-blog .author-comment .single-author-comment, .single-blog .about-author-post .single-author-post, .about-author-comment, .client-testimonial-area .single-testimonial, .pagination-area ul {text-align: center;}
+    .single-blog .about-author-post .single-author-post .media .media-body h4.media-heading {margin: 10px 0 0;}
+    .error-page-area .error-page h1 {font-size: 100px;line-height: 58px;margin-bottom: 48px;}
+    .error-page-area .error-page h3 {font-size: 18px;letter-spacing: 0;}
+    .contact-page-area .total-contact-form .contact-form h3 {font-size: 20px;	}
+    .contact-page-area { padding: 20px 0;}
+    .error-page-area .error-page a {padding: 15px 30px;	}
+    .error-page-area .error-page {padding:50px 10px;}
+    .services-page .single-service {padding: 27px;text-align: center;}
+    .contact-page-area .total-contact-form .contact-form {padding: 15px 0;}
+    /*==== Start gallery masonary v1 area css ====*/
+    .home-portfolio-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 100%;}
+    .home-portfolio-area .gallery-masonary-v1-area {padding-top: 0;}
+
+    /* responsive spacing issues */
+
+    .home-portfolio-area {padding: 100px 0 0;}
+    .project-activation-area, .page-header-area{padding:60px 0;}
+    .home-page-services-area,
+    .home-about-area,
+    .home-advertise-area,
+    .home-feature-services-area,
+    .home-team-area,
+    .why-smartiot-today,
+    .awesome-process-area, 
+    .video-section,
+    .home-blog-area,
+    .services-page,
+    .single-team-page,
+    .related-team-member,
+    .single-portfolio-area,
+    .blog-page,
+    .about-page-srill-area,
+    .home-portfolio-area.portfolio-page,
+    .client-testimonial-area .single-testimonial,
+    .our-work-three.portfolio-page,
+    .footer-top,
+    .error-page-area,
+    .contact-page-area,
+    .client-logo-area{padding:60px 0 !important;}
+    .client-testimonial-area .single-testimonial .testimonial-content,
+    .portfolio-content,
+    .single-portfolio-area .portfolio-content .porfolio-informations ul,
+    .blog-content,
+    .blog-page .blog-content .single-blog .blog-info ul,
+    .blog-more-informations,
+    .single-blog .blog-more-informations ul,
+    .header-page{margin-right: 0;text-align: center;}
+    .our-work-three .work-column-menu ul li{margin-bottom:10px;margin-right:0;display:block;}
+    .related-team-member .related-team .single-team .team-image .overley .team-info ul li a{width:37px;height:37px;line-height:37px;}
+    .blog-page .blog-content .single-blog .blog-info ul li {margin-right: 10px;padding-right: 10px;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 20px;    }
+    .contact-page-area .total-contact-form .contact-form .main-contact-form fieldset .btn-send{width:100%;}    
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 0px;}
+    .client-testimonial-area .single-testimonial {height: 560px;}
+    .home-about-area{padding:80px 0;} 
+    .home-feature-services-area .single-services{margin: 0 0 60px !important;padding: 0;}
+    .about-page-srill-area{padding:60px 0 0;}
+    .home-testimonial-area .home-testimonial h2 {font-size: 18px;line-height: 1.5;}
+    .our-work-three{padding:60px 0 0;}
+    .last-child{margin:0 !important;padding:0 !important;}
+    .video-section p {padding: 0 15px;}
+    .about-page-srill-area .about-skrill-area .skill .progress {margin: 50px 0 0;}
+    .services-page .single-service {padding: 15px;text-align: center;}
+    .pagination-area {padding-top: 30px;}
+    .pagination-area ul {text-align: center;}
+    .margin-481{margin-bottom: 20px;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 18px;line-height: 1.5;}
+    .home-feature-services-area .single-services.border-button-none.margin-321{margin-bottom:0px !important;}
+    .client-testimonial-area .single-testimonial .testimonial-content p b {font-size: 15px;	}
+    .home-blog-area .single-blog {margin-bottom: 30px;}
+    .why-smartiot-today .smartiot-today-content p,
+    .about-page-srill-area .about-skrill-area p {margin-bottom: 0;}
+    .single-portfolio-area .portfolio-content .porfolio-informations {margin-top: 25px;}
+    .single-portfolio-area .portfolio-content .services-list ul li {margin: 10px;}
+    .single-blog .author-comment .single-author-comment,
+    .single-blog .about-author-post .single-author-post {padding: 30px 10px;}
+    .single-blog .leave-comments-area{padding-top:0;}
+    .single-blog .leave-comments-area h4 {margin-bottom: 15px;	}
+    .single-service.padding-481 {margin: 0;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 17px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li a img {height: 50px;width: 50px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li.active a img {height: 60px;width: 60px;}
+    .home-blog-area .single-blog,
+    .about-page-service {margin-bottom: 50px;}
+    .about-page-srill-area .about-skrill-area .skill-content-3,
+    .home-team-area .single-team,
+    .single-blog .leave-comments-area{margin-bottom: 30px;}
+    .single-blog .leave-comments-area {text-align:center;}
+    .single-blog .leave-comments-area fieldset .form-group .btn-send{width:100%;}
+    .contact-page-area .total-contact-form .contact-form {padding: 40px 0;text-align: center;}
+    .home-testimonial-area .home-testimonial p {font-size: 14px;margin-bottom: 30px;}
+    .page-header-area h1 {font-size: 24px;margin-bottom: 10px;}
+    .blog-page .blog-content .single-blog .blog-image span {font-size: 16px;height: 50px;line-height: 19px !important;
+    padding: 6px;width: 50px;}
+    .single-blog .about-author-post {margin: 15px 0 30px;}
+    /* v2 responsive issues Fixed */
+    .home-about-area .about-content .about-content-list {margin-top: 10px;}
+    .home-page-services-area .single-service,
+    .single-portfolio-area .portfolio-content .image-slider {margin-bottom: 30px;}
+    .home-about-area .about-content h3 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .section-area h2 {font-size: 30px;font-weight: 500;margin-bottom: 10px;}
+    .section-area p {font-size: 16px;margin-bottom: 0;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title h3 a {font-size: 20px;font-weight: 400;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title ul li a{color:#ffffff;}
+    .client-testimonial-area .single-testimonial .testimonial-content p b {font-size: 14px;margin-bottom: 0 !important;}
+    .why-smartiot-today .smartiot-today-content h2 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .why-smartiot-today .smartiot-today-content p {margin-bottom: 0;}
+    .smartiot-today-content > ul {text-align: center;}
+    .awesome-process-area .awesome-process-content h2 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .awesome-process-area .awesome-process-menu .tab-content .tab-pane h3 {font-weight: 400;margin-bottom: 10px;}
+    .video-title,
+    .home-blog-area .single-blog h3 a,
+    .footer-top .widget .widget-title,
+    .services-page .single-service h3 a,
+    .home-team-area .single-team .team-details h3 a,
+    .single-team-page .single-team-content-area h3,
+    .single-team-page .team-feature .single-team-feature .media .media-body h4.media-heading,
+    .section-area h2,
+    .related-team-member .related-team .single-team .team-details h3 a,
+    .single-portfolio-area .portfolio-content h2,
+    .blog-page .blog-content .single-blog h3,
+    .blog-page .blog-content .single-blog p,
+    .blog-page .blog-content .single-blog h3 a,
+    .contact-page-area .total-contact-form .contact-form h3 {font-weight: 400;}
+    .about-page-srill-area .about-title-section h3,
+    .page-header-area h1 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .padding-top1,
+    .single-portfolio-area .portfolio-content .porfolio-informations { padding-top: 30px;}
+    .contact-page-area .total-contact-form .contact-information {   padding: 30px 60px;    }
+}
+
+/* mobile device :320px. */
+@media (max-width: 320px) {
+    .container {width:300px;}
+    .mobile-menu-area{display: block;}
+    .header-area{display: none;}
+    /* header area styling */
+    .header-area .menu-right ul li {width: 31px;}
+    .header-area .menu-right ul li::after {height: 26px;top: 35px;}
+    .header-area .main-menu ul li {padding:22px;}
+    .menu-right {display: none;}
+    .header-area {position: inherit;background:#000000;}
+    .header-area .logo-area a {padding: 5px;}
+
+    /* slider area styling */
+    .slider-content{display:none;}
+    .nivo-directionNav a {top: 25%;}
+    /* home page Styling */
+    .why-smartiot-today .smartiot-today-content ul li {margin: 0 30px 0 15px;width: 150px;}
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li {      
+    display: block;
+    float: inherit;
+    margin: auto;
+    padding: 0 !important;
+    position: relative;
+    text-align: center;}
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li a {
+    margin: auto auto 20px;
+    padding: 0;
+    transition: all 0.35s ease-out 0s;
+    width: 60px;
+    }
+    .awesome-process-area .awesome-process-menu ul.nav-tabs li::after {display:none;}
+    .video-section p {padding: 0 100px;}
+    .home-blog-area .single-blog h3 a {font-size: 20px;}
+    .home-page-services-area .single-service {margin-bottom: 60px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li {margin:0px;}
+    .home-testimonial-area .home-testimonial .tab-content .tab-pane .client-details p {font-size: 14px;margin: 30px 0;
+    padding: 20px 0;}
+    .home-about-area .about-content h3, .why-smartiot-today .smartiot-today-content h2 {font-size: 25px;}
+    .home-testimonial-area .home-testimonial h2 {font-size: 25px;}
+    .home-testimonial-area .home-testimonial .client-nav {bottom: -90px;}
+    .home-testimonial-area {padding: 60px 0;}
+    .section-area h2, .awesome-process-area .awesome-process-content h2, .about-page-srill-area .about-title-section h3{font-size: 29px;}
+    .about-page-srill-area .about-title-section .subtitle p {letter-spacing: 4px;}
+    .home-team-area .single-team .team-image .overley .team-info ul li {margin: 0 2px;}
+    .home-portfolio-area .gallery-filter li{display:block;}
+    .video-section p {padding: 0 15px;}
+    .home-about-area .about-content .about-content-list .single-list .media .pull-left a, .single-list {margin: 20px auto;
+    text-align: center;}
+    .home-about-area .about-content .about-content-list .single-list .media .pull-left, .single-team-page .team-feature .single-team-feature .media .pull-left, .single-blog .author-comment .single-author-comment .media .pull-left,.single-blog .about-author-post .single-author-post .media .pull-left {display: block;float: inherit !important;text-align: center;margin-right:0;}
+    .about-counter-list {margin: 73px;}
+    .about-counter-list i {left: 0;right: 0;top: -25px;}
+    .single-team-page .team-feature .single-team-feature .media .pull-left i {margin: auto;}
+    .awesome-process-area .awesome-process-content p {margin-right: 0;}    
+    .client-testimonial-area .single-testimonial .testimonial-content {margin-right: 0;text-align: center;}
+
+
+
+
+    /* others pages styling */
+    .single-portfolio-area .portfolio-content .porfolio-informations ul li {margin-right: 9px;padding-right: 9px;}
+    .single-portfolio-area .portfolio-content h2 {font-size: 19px;margin-bottom:10px;}
+    .blog-page .blog-content .single-blog h3 {font-size: 20px;}
+    .single-blog .quoate {padding: 10px;}
+    .blog-more-informations {margin-bottom: 20px;}
+    .contact-page-area .total-contact-form .contact-information {padding: 25px;}
+    .home-advertise-area .advertise-content p {font-size: 15px;}
+    .client-testimonial-area .single-testimonial .testimonial-content h2 {font-size: 24px;line-height: 1.5;margin-right: 0;
+    }
+    .footer-top .widget .social-media ul li { margin: 1px;}
+    .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev, .single-portfolio-area .portfolio-content .image-slider .owl-controls .owl-buttons .owl-prev {top: 50%;}
+    .home-feature-services-area .single-services{border:0px solid #ffffff !important;padding:0 0 30px;}
+    .why-smartiot-today .smartiot-today-content, .awesome-process-content {  margin: 0 0 30px 0;    }
+    .smartiot-today-featured, .about-page-srill-area, .about-page-srill-area .about-page-service .single-services p, .single-team-page, .single-team-page .single-team-content-area .team-information ul, .why-smartiot-today, .awesome-process-area, .home-blog-area .single-blog, .about-content{text-align:center;}
+    .about-page-srill-area .about-page-service .single-services h3 a::after,
+    .contact-page-area .total-contact-form .contact-form h3::after {left: 0;margin: auto;right: 0;}
+    .footer-top .widget.single-footer2 ul li { margin: 22px 0; }
+    .widget, .single-team-page .team-feature .single-team-feature{margin-bottom: 30px;}
+    .about-counter-list i {font-size: 32px;}
+    .about-counter-list h1 {font-size: 40px;    }
+    .client-logo-area .owl-prev {left: -30px;    }
+    .client-logo-area .owl-next {right: -30px;    }
+    .padding-768, .page-sidebar-area{padding-top:30px;}
+    .padding-480{padding-top:30px;}
+    .single-team-page .single-team-featured-image .team-image {margin-bottom: 30px;}
+    .single-team-page .team-feature .single-team-feature::after{display:none;}
+    .error-page-area .error-page p {font-size: 14px;padding: 0;}
+    .single-portfolio-area .portfolio-content .porfolio-informations ul li {display: block;border:0px solid #000000;margin-bottom: 10px;}
+    .single-blog .author-comment .single-author-comment .media .media-body ul {margin: 30px 0;}
+    .single-blog .author-comment .single-author-comment .media .media-body h4.media-heading {text-align:center;margin: 20px 0 0;}
+    .single-blog .author-comment .single-author-comment, .single-blog .about-author-post .single-author-post, .about-author-comment, .client-testimonial-area .single-testimonial, .pagination-area ul {text-align: center;}
+    .single-blog .about-author-post .single-author-post .media .media-body h4.media-heading {margin: 10px 0 0;}
+    .error-page-area .error-page h1 {font-size: 100px;line-height: 58px;margin-bottom: 48px;}
+    .error-page-area .error-page h3 {font-size: 18px;letter-spacing: 0;}
+    .contact-page-area .total-contact-form .contact-form h3 {font-size: 20px;   }
+    .contact-page-area { padding: 20px 0;}
+    .error-page-area .error-page a {padding: 15px 30px; }
+    .error-page-area .error-page {padding:50px 10px;}
+    .services-page .single-service {padding: 27px;text-align: center;}
+    .contact-page-area .total-contact-form .contact-form {padding: 15px 0;}
+    /*==== Start gallery masonary v1 area css ====*/
+    .home-portfolio-area .gallery-masonary-v1-area .single-gallery-masonary-item.span-3 {width: 100%;}
+    .home-portfolio-area .gallery-masonary-v1-area {padding-top: 0;}
+
+    /* responsive spacing issues */
+
+    .home-portfolio-area {padding: 100px 0 0;}
+    .project-activation-area, .page-header-area{padding:60px 0;}
+    .home-page-services-area,
+    .home-about-area,
+    .home-advertise-area,
+    .home-feature-services-area,
+    .home-team-area,
+    .why-smartiot-today,
+    .awesome-process-area, 
+    .video-section,
+    .home-blog-area,
+    .services-page,
+    .single-team-page,
+    .related-team-member,
+    .single-portfolio-area,
+    .blog-page,
+    .about-page-srill-area,
+    .home-portfolio-area.portfolio-page,
+    .client-testimonial-area .single-testimonial,
+    .our-work-three.portfolio-page,
+    .footer-top,
+    .error-page-area,
+    .contact-page-area,
+    .client-logo-area{padding:60px 0 !important;}
+    .client-testimonial-area .single-testimonial .testimonial-content,
+    .portfolio-content,
+    .single-portfolio-area .portfolio-content .porfolio-informations ul,
+    .blog-content,
+    .blog-page .blog-content .single-blog .blog-info ul,
+    .blog-more-informations,
+    .single-blog .blog-more-informations ul,
+    .header-page{margin-right: 0;text-align: center;}
+    .our-work-three .work-column-menu ul li{margin-bottom:10px;margin-right:0;display:block;}
+    .related-team-member .related-team .single-team .team-image .overley .team-info ul li a{width:37px;height:37px;line-height:37px;}
+    .blog-page .blog-content .single-blog .blog-info ul li {margin-right: 10px;padding-right: 10px;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 20px;    }
+    .contact-page-area .total-contact-form .contact-form .main-contact-form fieldset .btn-send{width:100%;}    
+    /* responsive issue fix */
+    .error-page-area .error-page p {padding: 0 0px;}
+    .client-testimonial-area .single-testimonial {height: 560px;}
+    .home-about-area{padding:80px 0;} 
+    .home-feature-services-area .single-services{margin: 0 0 60px !important;padding: 0;}
+    .about-page-srill-area{padding:60px 0 0;}
+    .home-testimonial-area .home-testimonial h2 {font-size: 18px;line-height: 1.5;}
+    .our-work-three{padding:60px 0 0;}
+    .last-child{margin:0 !important;padding:0 !important;}
+    .video-section p {padding: 0 15px;}
+    .about-page-srill-area .about-skrill-area .skill .progress {margin: 50px 0 0;}
+    .services-page .single-service {padding: 15px;text-align: center;}
+    .pagination-area {padding-top: 30px;}
+    .pagination-area ul {text-align: center;}
+    .margin-481{margin-bottom: 20px;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 18px;line-height: 1.5;}
+    .home-feature-services-area .single-services.border-button-none.margin-321{margin-bottom:0px !important;}
+    .client-testimonial-area .single-testimonial .testimonial-content p b {font-size: 15px; }
+    .home-blog-area .single-blog {margin-bottom: 30px;}
+    .why-smartiot-today .smartiot-today-content p,
+    .about-page-srill-area .about-skrill-area p {margin-bottom: 0;}
+    .single-portfolio-area .portfolio-content .porfolio-informations {margin-top: 25px;}
+    .single-portfolio-area .portfolio-content .services-list ul li {margin: 10px;}
+    .single-blog .author-comment .single-author-comment,
+    .single-blog .about-author-post .single-author-post {padding: 30px 10px;}
+    .single-blog .leave-comments-area{padding-top:0;}
+    .single-blog .leave-comments-area h4 {margin-bottom: 15px;  }
+    .single-service.padding-481 {margin: 0;}
+    .blog-page .blog-content .single-blog h3 a {font-size: 17px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li a img {height: 50px;width: 50px;}
+    .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li.active a img {height: 60px;width: 60px;}
+    .home-blog-area .single-blog,
+    .about-page-service {margin-bottom: 50px;}
+    .about-page-srill-area .about-skrill-area .skill-content-3,
+    .home-team-area .single-team,
+    .single-blog .leave-comments-area{margin-bottom: 30px;}
+    .single-blog .leave-comments-area {text-align:center;}
+    .single-blog .leave-comments-area fieldset .form-group .btn-send{width:100%;}
+    .contact-page-area .total-contact-form .contact-form {padding: 40px 0;text-align: center;}
+    .home-testimonial-area .home-testimonial p {font-size: 14px;margin-bottom: 30px;}
+    .page-header-area h1 {font-size: 24px;margin-bottom: 10px;}
+    .blog-page .blog-content .single-blog .blog-image span {font-size: 16px;height: 50px;line-height: 19px !important;
+    padding: 6px;width: 50px;}
+    .single-blog .about-author-post {margin: 15px 0 30px;}
+    /* v2 responsive issues Fixed */
+    .home-about-area .about-content .about-content-list {margin-top: 10px;}
+    .home-page-services-area .single-service,
+    .single-portfolio-area .portfolio-content .image-slider {margin-bottom: 30px;}
+    .home-about-area .about-content h3 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .section-area h2 {font-size: 30px;font-weight: 500;margin-bottom: 10px;}
+    .section-area p {font-size: 16px;margin-bottom: 0;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title h3 a {font-size: 20px;font-weight: 400;}
+    .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details .title ul li a{color:#ffffff;}
+    .client-testimonial-area .single-testimonial .testimonial-content p b {font-size: 14px;margin-bottom: 0 !important;}
+    .why-smartiot-today .smartiot-today-content h2 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .why-smartiot-today .smartiot-today-content p {margin-bottom: 0;}
+    .smartiot-today-content > ul {text-align: center;}
+    .awesome-process-area .awesome-process-content h2 {font-size: 30px;font-weight: 400;margin-bottom: 10px;}
+    .awesome-process-area .awesome-process-menu .tab-content .tab-pane h3 {font-weight: 400;margin-bottom: 10px;}
+    .video-title,
+    .home-blog-area .single-blog h3 a,
+    .footer-top .widget .widget-title,
+    .services-page .single-service h3 a,
+    .home-team-area .single-team .team-details h3 a,
+    .single-team-page .single-team-content-area h3,
+    .single-team-page .team-feature .single-team-feature .media .media-body h4.media-heading,
+    .section-area h2,
+    .related-team-member .related-team .single-team .team-details h3 a,
+    .single-portfolio-area .portfolio-content h2,
+    .blog-page .blog-content .single-blog h3,
+    .blog-page .blog-content .single-blog p,
+    .blog-page .blog-content .single-blog h3 a,
+    .contact-page-area .total-contact-form .contact-form h3 {font-weight: 400;}
+    .about-page-srill-area .about-title-section h3,
+    .page-header-area h1 {font-size: 30px;font-weight: 400;margin-bottom:15px;}
+    .padding-top1,
+    .single-portfolio-area .portfolio-content .porfolio-informations { padding-top: 30px;}
+    .contact-page-area .total-contact-form .contact-information {   padding: 30px 60px;    }
+}

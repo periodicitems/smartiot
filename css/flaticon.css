@@ -1,0 +1,46 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 24/09/2016 06:52
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-computing-code:before { content: "\f100"; }
+.flaticon-cup:before { content: "\f101"; }
+.flaticon-cup-1:before { content: "\f102"; }
+.flaticon-database:before { content: "\f103"; }
+.flaticon-edit:before { content: "\f104"; }
+.flaticon-emoticon-square-smiling-face-with-closed-eyes:before { content: "\f105"; }
+.flaticon-folder:before { content: "\f106"; }
+.flaticon-heart:before { content: "\f107"; }
+.flaticon-light-bulb:before { content: "\f108"; }
+.flaticon-picture:before { content: "\f109"; }
+.flaticon-settings:before { content: "\f10a"; }
+.flaticon-square:before { content: "\f10b"; }
+.flaticon-technology:before { content: "\f10c"; }
+.flaticon-three:before { content: "\f10d"; }
+.flaticon-tool:before { content: "\f10e"; }
+.flaticon-video-camera:before { content: "\f10f"; }
+.flaticon-web:before { content: "\f110"; }

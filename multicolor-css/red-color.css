@@ -1,0 +1,146 @@
+/*--------------------
+CSS color changer
+-----------------------*/
+body.red-color-body {
+  /*-----------------------------------
+  Theme Background color
+  -----------------------------------*/
+  /*-----------------------------------
+  Theme color
+  -----------------------------------*/
+  /*-----------------------------------
+  Theme Hover background color
+  -----------------------------------*/
+  /*-----------------------------------
+  Theme Hover color
+  -----------------------------------*/
+  /*-------------------------------------
+  Theme Border color
+  --------------------------------------*/
+  /*Theme opacity colot setting*/
+}
+body.red-color-body .error-page-area .error-page,
+body.red-color-body .header-area .main-menu ul li.active a::after,
+body.red-color-body .header-area .main-menu ul li a::after,
+body.red-color-body .footer-top .widget .widget-title::after,
+body.red-color-body .footer-top .widget .social-media ul li a:hover,
+body.red-color-body .contact-page-area .total-contact-form .contact-form h3::after,
+body.red-color-body .contact-page-area .total-contact-form .contact-information,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:hover::before {
+  background: #b90909 !important;
+}
+body.red-color-body .header-area .main-menu ul li.active a,
+body.red-color-body .page-header-area ul li:last-child,
+body.red-color-body .footer-top .widget.single-footer2 ul li::after,
+body.red-color-body .footer-top .widget.single-footer2 ul li a:hover,
+body.red-color-body .page-header-area ul li:last-child,
+body.red-color-body .page-sidebar-area .single-sidebar .serach-box button i,
+body.red-color-body .page-sidebar-area .single-sidebar h3::after,
+body.red-color-body .blog-page .blog-content .single-blog .blog-info ul li span,
+body.red-color-body .page-sidebar-area .single-sidebar .sidebar-recent-post .single-post .media-body h4 a:hover,
+body.red-color-body .page-sidebar-area .single-sidebar ul li a::before,
+body.red-color-body .home-about-area .about-content h3 span,
+body.red-color-body .about-page-srill-area .about-page-service .single-services a i,
+body.red-color-body .about-page-srill-area .about-page-service .single-services h3 a:hover,
+body.red-color-body .project-activation-area.about-us-counter .about-counter-list i,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-prevNav::before,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-nextNav::before,
+body.red-color-body .home-page-services-area .single-service a i,
+body.red-color-body .home-page-services-area .single-service:hover h3 a,
+body.red-color-body .home-testimonial-area .home-testimonial .tab-content .tab-pane .client-info h4,
+body.red-color-body .client-testimonial-area .single-testimonial .testimonial-content a:hover,
+body.red-color-body .about-counter-list i,
+body.red-color-body .why-smartiot-today .smartiot-today-content h2 span,
+body.red-color-body .why-smartiot-today .smartiot-today-content ul li .single-list ul li::after,
+body.red-color-body .awesome-process-area .awesome-process-content h2 span {
+  color: #b90909 !important;
+}
+body.red-color-body .error-page-area .error-page-message .home-page a:hover,
+body.red-color-body .call-top-action .subscribe-now a:hover,
+body.red-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover,
+body.red-color-body .main-header-area .main-menu ul li:hover,
+body.red-color-body .home-about-area .about-content-area .botton-area a:hover,
+body.red-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send:hover,
+body.red-color-body .total-blog-area .single-blog-post .download a:hover,
+body.red-color-body .single-news-page-area .leave-comments-area fieldset .btn-send:hover,
+body.red-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send:hover,
+body.red-color-body .page-sidebar-area .single-sidebar h3::after,
+body.red-color-body .blog-page .blog-content .single-blog .blog-image span,
+body.red-color-body .pagination-area ul li.active a,
+body.red-color-body .single-blog .leave-comments-area fieldset .form-group .btn-send,
+body.red-color-body .services-page .single-service .read-more a,
+body.red-color-body .our-work-three .work-column-menu ul li.active,
+body.red-color-body .our-work-three .work-column-menu ul li:hover,
+body.red-color-body .our-work-three .home1-recent-work .single-recent-work .recent-work-images .work-details,
+body.red-color-body .home-about-area .about-content .about-content-list .single-list .media .pull-left a,
+body.red-color-body .about-page-srill-area .about-page-service .single-services h3 a::after,
+body.red-color-body .about-page-srill-area .about-skrill-area .skill .progress .progress-bar,
+body.red-color-body .project-activation-area.about-us-counter,
+body.red-color-body .owl-theme .owl-controls .owl-buttons div,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-prevNav::before,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:hover::before,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.red-color-body .home-page-services-area .single-service h3 a::after,
+body.red-color-body .client-testimonial-area .single-testimonial .testimonial-content a,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li.active a {
+  background: #b90909 !important;
+}
+body.red-color-body .header-area .menu-right ul li i:hover,
+body.red-color-body .header-area .main-menu ul li a:hover,
+body.red-color-body .footer-bottom .footer-copy-right p a:hover,
+body.red-color-body .page-sidebar-area .single-sidebar ul li a:hover,
+body.red-color-body .pagination-area ul li a:hover,
+body.red-color-body .single-blog .quoate p i,
+body.red-color-body .single-blog .blog-more-informations h2,
+body.red-color-body .single-blog .about-author-post .single-author-post .media .media-body h4.media-heading,
+body.red-color-body .single-blog .author-comment .single-author-comment .media .media-body h4.media-heading,
+body.red-color-body .single-blog .author-comment .single-author-comment .media .media-body ul li.right i,
+body.red-color-body .single-portfolio-area .portfolio-content .services-list ul li::after,
+body.red-color-body .single-portfolio-area .portfolio-content .porfolio-informations ul li span,
+body.red-color-body .single-team-page .single-team-content-area .designation p,
+body.red-color-body .single-team-page .single-team-content-area .team-information ul li i,
+body.red-color-body .related-team-member .related-team .single-team .team-image .overley .team-info p.designation,
+body.red-color-body .related-team-member .related-team .single-team .team-details p,
+body.red-color-body .home-team-area .single-team .team-details p,
+body.red-color-body .home-team-area .single-team .team-image .overley .team-info h3 a:hover,
+body.red-color-body .home-team-area .single-team .team-details h3 a:hover,
+body.red-color-body .services-page .single-service h3 a:hover,
+body.red-color-body .home-about-area .about-content .about-content-list .single-list .media .media-body h4.media-heading a:hover,
+body.red-color-body .home-feature-services-area .single-services a i,
+body.red-color-body .home-advertise-area .advertise-checkout a:hover,
+body.red-color-body .home-feature-services-area .single-services:hover h3 a,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li a,
+body.red-color-body .awesome-process-area .awesome-process-menu .tab-content .tab-pane h3 a:hover,
+body.red-color-body .home-blog-area .single-blog h3 a:hover,
+body.red-color-body .home-blog-area .single-blog .blog-info span {
+  color: #b90909 !important;
+}
+body.red-color-body .error-page-area .error-page,
+body.red-color-body .footer-top .widget .social-media ul li a,
+body.red-color-body .related-team-member .related-team .single-team .team-image .overley .team-info ul li a,
+body.red-color-body .home-team-area .single-team .team-image .overley .team-info ul li a,
+body.red-color-body .header-area .main-menu ul li ul li,
+body.red-color-body .our-work-three .work-column-menu ul li,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li a,
+body.red-color-body .home-testimonial-area .home-testimonial .client-nav ul.nav-tabs li.active a img,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li.active a,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li a {
+  border-color: #b90909 !important;
+}
+body.red-color-body .footer-top .widget.single-footer4 .btn-send,
+body.red-color-body #scrollUp,
+body.red-color-body .error-page-area .error-page a,
+body.red-color-body .contact-page-area .total-contact-form .contact-form .main-contact-form fieldset .btn-send,
+body.red-color-body .single-team-page .team-feature .single-team-feature .media .pull-left i,
+body.red-color-body .related-team-member .related-team .owl-controls .owl-buttons .owl-prev:hover,
+body.red-color-body .related-team-member .related-team .single-team .team-image .overley .team-info ul li a:hover,
+body.red-color-body .home-team-area .single-team .team-image .overley .team-info ul li a:hover,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.red-color-body .home-feature-services-area .single-services h3 a::after,
+body.red-color-body .home-advertise-area,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li::after,
+body.red-color-body .awesome-process-area .awesome-process-menu ul.nav-tabs li a:hover,
+body.red-color-body .video-section a::after,
+body.red-color-body .home-blog-area .single-blog .blog-image span {
+  background: #b90909 !important;
+}
